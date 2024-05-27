@@ -1,0 +1,26 @@
+.item {
+	display: flex;
+	flex-direction: column-reverse;
+
+	.quote {
+		font-size: 35px;
+	}
+
+	.author {
+		margin-top: 2em;
+		font-size: 25px;
+		font-style: italic;
+	}
+}
+
+.watermark {
+	position: absolute;
+	right: 16px;
+	bottom: 16px;
+	z-index: 10;
+}
+
+.watermark img {
+	width: 200px;
+	height: 200px;
+}
