@@ -1,9 +1,14 @@
+.item {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  padding: 1em;
+}
 .item .quote {
-  font-size: 35px;
+  font-size: 30px;
 }
 .item .author {
   margin-top: 2em;
-  font-size: 25px;
+  font-size: 20px;
   font-style: italic;
 }
 

@@ -5,4 +5,4 @@
 *
 * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
 */
-.item .quote{font-size:35px}.item .author{margin-top:2em;font-size:25px;font-style:italic}.watermark{position:absolute;right:16px;bottom:16px;z-index:10}.watermark img{width:200px;height:200px}
+.item{background-color:rgba(0,0,0,.4);border-radius:5px;padding:1em}.item .quote{font-size:30px}.item .author{margin-top:2em;font-size:20px;font-style:italic}.watermark{position:absolute;right:16px;bottom:16px;z-index:10}.watermark img{width:200px;height:200px}
