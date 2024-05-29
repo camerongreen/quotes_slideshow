@@ -1,7 +1,3 @@
-.item {
-  display: flex;
-  flex-direction: column-reverse;
-}
 .item .quote {
   font-size: 35px;
 }
